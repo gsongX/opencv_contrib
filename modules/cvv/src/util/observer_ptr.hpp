@@ -12,6 +12,8 @@
 #include <cstdint>   // [u]intXX_t
 #include <algorithm> // since some people like to forget that one
 
+#include <stdexcept>
+
 namespace cvv
 {
 namespace util

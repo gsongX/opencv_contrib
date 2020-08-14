@@ -1,4 +1,4 @@
-#include "stringutils.hpp"
+﻿#include "stringutils.hpp"
 
 #include <algorithm>
 #include <cstddef>
